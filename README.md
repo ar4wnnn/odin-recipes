@@ -1,1 +1,1 @@
-# odin-recipes
+This is a basic html site for Odin Project assignment, using only the tools presented in the course so far.
